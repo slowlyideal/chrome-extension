@@ -4,7 +4,7 @@
 
 参考：
 Chrome扩展及应用开发 作者:李喆
-
+https://developer.chrome.com/extensions  
 https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html#%E5%AE%98%E6%96%B9%E8%B5%84%E6%96%99  
 遭遇一次谷歌浏览器崩溃：  
 https://jingyan.baidu.com/article/cdddd41cbc5b9353cb00e1f0.html
