@@ -1,0 +1,13 @@
+{
+    "name": "链接保存打开",
+	"author": "lx",
+	"version": "1.0",
+    "description" : "将当前的网页全部保存，下次启动时可以全部打开",
+	"default_locale": "zh_CN",
+    "manifest_version": 2,
+	"permissions": ["tabs"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "images/128.png"
+    }
+}
